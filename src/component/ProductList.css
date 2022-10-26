@@ -95,7 +95,7 @@ color: #444444;
 
 }
 .item-price{
-  width: 92px;
+  width: fit-content;
 height: 32px;
 font-family: 'Montserrat';
 font-style: normal;
